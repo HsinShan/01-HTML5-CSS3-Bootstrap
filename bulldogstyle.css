@@ -21,7 +21,10 @@
     padding-top: 30px;
     padding-bottom: 30px;
 }
-h1,h2{
+h1{
+    color: #7fffd4;
+}
+h2{
     color: #7fffd4;
 }
 .bulldog{

@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+* {
+    font-family: 'Noto Sans TC';
+}
+#bull{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#title{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.inline{
+    display: inline;
+}
+#topsec{
+    background: url(bulldog-christmas-dog-3884.jpg) center;
+    background-size: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h1,h2{
+    color: black;
+}
+.bulldog{
+    padding: 0!important;
+    margin: 0!important;
+}
+
+.line{
+    padding: 30px !important;
+    margin:0 !important;
+}
+#bottomsec{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.reference{
+    font-size: 8px;
+}
+a{
+    color: cornflowerblue;
+    text-decoration:none; 
+}
+a:hover{
+    color: coral;
+}

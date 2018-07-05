@@ -30,7 +30,8 @@ h1,h2{
 }
 
 .line{
-    padding: 30px !important;
+    padding-top: 30px;
+    padding-bottom: 15px;
     margin:0 !important;
 }
 #bottomsec{
@@ -38,7 +39,7 @@ h1,h2{
     padding-bottom: 30px;
 }
 .reference{
-    font-size: 12px;
+    font-size: 8px;
 }
 a{
     color: cornflowerblue;

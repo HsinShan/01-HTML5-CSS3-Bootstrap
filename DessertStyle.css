@@ -7,11 +7,11 @@ body{
 #topsec{
     padding-top: 20px;
 }
-#toprow{
+.toprow{
     padding-top: 20px;
     padding-bottom: 20px;
 }
-#bottomrow{
+.bottomrow{
     padding-bottom: 20px;
 }
 .sub{

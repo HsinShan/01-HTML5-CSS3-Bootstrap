@@ -4,18 +4,15 @@
 }
 body{
     padding-bottom: 100px;
-    background-color: #39E8A9;
+    background-color: #F53A33;
     color: #FFF;
 }
 .jumbotron{
-    background-color: #4CFF8C;
-    color: #FFF;
+    background-color: #FFA61A;
+
 }
 #year2018,#year2017,#year2016{
     padding-top: 80px;
-}
-#year2018,#year2017{
-    border-bottom: 1px #39E8A9 solid; 
 }
 #character{
     padding: 50px;
